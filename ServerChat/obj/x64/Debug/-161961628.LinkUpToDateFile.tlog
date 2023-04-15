@@ -1,0 +1,1 @@
+g++ -o "/root/projects/ServerChat/bin/x64/Debug/ServerChat.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/ServerChat/obj/x64/Debug/ServerChat.o

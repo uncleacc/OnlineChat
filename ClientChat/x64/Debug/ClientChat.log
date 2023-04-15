@@ -1,0 +1,3 @@
+﻿  ClientChat.cpp
+e:\vsworkspace\serverchat\serverchat\clientchat\clientchat.cpp(21): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ClientChat.vcxproj -> E:\VSWorkspace\ServerChat\ServerChat\x64\Debug\ClientChat.exe
